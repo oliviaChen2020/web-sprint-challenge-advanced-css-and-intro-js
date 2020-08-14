@@ -124,7 +124,7 @@ button:hover{
     display:flex;
     justify-content: space-around;
     width:80%;
-    margin:0 auto;
+x
     
 }
 
@@ -140,10 +140,14 @@ button:hover{
     .title-container div{
         width:100%;
     }
+    .title-container hr{
+        width:100%;
+    }
     .artists-container{
         display:block;
         margin:0 auto;
     }
+    
     .artist {
         width: 80%;
     }
